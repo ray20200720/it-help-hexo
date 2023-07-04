@@ -104,5 +104,5 @@ theme: very-simple
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://ray20200720.github.io
+  repo: https://github.com/ray20200720/ray20200720.github.io
   branch: main
