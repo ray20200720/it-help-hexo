@@ -21,12 +21,13 @@ circum(30)
 ```
 
 The general form of a function definition is
+
 ``` js
 const function-name = (list-of-variable-names) => expression;
 ```
 
 Here's a function that returns the average of three numbers:
-s
+
 ``` js
 const ave3 = (x, y, z) => (x + y + z) / 3;
 
