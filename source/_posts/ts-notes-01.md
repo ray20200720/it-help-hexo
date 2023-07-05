@@ -2,13 +2,13 @@
 title: TypeScript Notes
 ---
 
-# 安裝TypeScript
+### 安裝TypeScript
 
 ``` bash
 $ sudo npm install -g typescript
 ```
 
-# 編寫第一個TypeScript
+### 編寫第一個TypeScript
 
 ``` bash
 $ emacs index.ts
@@ -20,7 +20,7 @@ const message = 'Hello World';
 console.log(message)
 ```
 
-# 編譯TypeScript
+### 編譯TypeScript
 
 ``` bash
 $ tsc
@@ -28,7 +28,7 @@ $ tsc
 
 執行tsc會自動尋找所有`.ts`結尾的檔案並產生js檔案
 
-# 執行
+### 執行
 
 ``` bash
 $ node index.js
