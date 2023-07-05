@@ -14,6 +14,8 @@ $ sudo npm install -g typescript
 $ emacs index.ts
 ```
 
+`index.ts`
+
 ``` bash
 const message = 'Hello World';
 
