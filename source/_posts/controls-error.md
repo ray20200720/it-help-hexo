@@ -4,11 +4,11 @@ date: 2023-07-03 16:22:37
 tags:
 ---
 
-## 問題描述:
+### 問題描述:
 
 當畫面啟動時,會出現 **無法修改 Controls 集合，因為控制項包含程式碼區塊 (例如 <% ... %>)** 錯誤訊息
 
-## 發生原因:
+### 發生原因:
 
 主要是在&lt;head&gt;&lt;/head&gt;裡面有使用到<% %>
 
@@ -25,9 +25,9 @@ tags:
 </html>
 ```
 
-## 解決方法:
+### 解決方法:
 
-### 方法 1: 加上&lt;asp:PlaceHolder runat="server"&gt;&lt;/asp:PlaceHolder&gt;使其延後執行
+- 方法 1: 加上&lt;asp:PlaceHolder runat="server"&gt;&lt;/asp:PlaceHolder&gt;使其延後執行
 
 ``` html
 <!doctype html>
@@ -42,7 +42,7 @@ tags:
 </html>
 ```
 
-### 方法 2: 將&lt;script&gt;&lt;/script&gt;移至其它位置,例如: &lt;head&gt;&lt;/head&gt;外&lt;body&gt;&lt;/body&gt;內
+- 方法 2: 將&lt;script&gt;&lt;/script&gt;移至其它位置,例如: &lt;head&gt;&lt;/head&gt;外&lt;body&gt;&lt;/body&gt;內
 
 ``` html
 <!doctype html>

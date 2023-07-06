@@ -1,5 +1,6 @@
 ---
 title: TypeScript Notes
+date: 2023-07-05 13:05
 ---
 
 ### 安裝TypeScript

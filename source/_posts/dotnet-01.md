@@ -1,5 +1,6 @@
 ---
 title: .NET Command
+date: 2023-07-05 17:37
 ---
 
 ### 安裝.NET SDK或.NET Runtime
