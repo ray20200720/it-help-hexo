@@ -1,5 +1,5 @@
 ---
-title: 前端學習資源匯總 
+title: 全端學習資源匯總
 date: 2023-07-19 14:37
 ---
 
@@ -17,7 +17,8 @@ date: 2023-07-19 14:37
 
 - [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
-# JavaScript
+
+## JavaScript
 
 - [從ES6開始的JavaScript學習生活](https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/)
 
@@ -32,6 +33,7 @@ date: 2023-07-19 14:37
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 - [重新認識JavaScript](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)
+
 
 ## Promise
 
@@ -50,7 +52,7 @@ date: 2023-07-19 14:37
 - JavaScript權威指南 - [Javascript: The Definitive Guide]
 
 - JavaScript語言精粹 -[JavaScript- The Good Parts]
-    
+
 - JavaScript忍者秘籍 - [Secrets of the JavaScript Ninja]
 
 - pro-javascript-techniques
@@ -63,15 +65,7 @@ date: 2023-07-19 14:37
 
 - JavaScript高級程序設計
 
-# nodejs
-
-- [Node入門](https://www.nodebeginner.org/index-zh-tw.html)
-
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
-
-- [Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
-
-# CSS 
+## CSS
 
 - [前端動手玩創意](https://ithelp.ithome.com.tw/users/20134378/articles)
 
@@ -81,9 +75,37 @@ date: 2023-07-19 14:37
 
 - [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-# VUE
+## VUE
 
 - [重新認識 Vue.js:](https://book.vue.tw/)
+
+## Webpack
+
+- [Webpack Tutorial 繁體中文 Gitbook](https://neighborhood999.github.io/webpack-tutorial-gitbook/)
+
+
+# Back End
+## nodejs
+
+- [Node入門](https://www.nodebeginner.org/index-zh-tw.html)
+
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
+- [Understanding node.js](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
+
+## express
+
+- [Node.js - Express4](https://dotblogs.com.tw/explooosion/2016/06/11/213626)
+
+- [Node.js - Express + MySQL](https://dotblogs.com.tw/explooosion/2016/07/18/010601)
+
+## Koa2
+
+- [Node.js - 從零開始的 Koa2 世界](https://dotblogs.com.tw/explooosion/2017/06/05/221119)
+
+
+
+
 
 # Blogger
 
@@ -96,16 +118,21 @@ date: 2023-07-19 14:37
 - [Dr. Axel Rauschmayer](https://dr-axel.de/)
 
     - [2ality – JavaScript and more](https://2ality.com/)
-    
+
     - [JavaScript for impatient programmers (ES2022 edition)](https://exploringjs.com/impatient-js/index.html)
 
 - [John Resig](https://johnresig.com/)
 
 - [Huli](https://github.com/aszx87410/blog)
 
+
 # npm package
 
 - [honkit](https://github.com/honkit/honkit)
 
 
+# 綜合學習資源
 
+- [TutorialsTeacher.com](https://www.tutorialsteacher.com)
+
+- [Fooish 程式技術](https://www.fooish.com)
