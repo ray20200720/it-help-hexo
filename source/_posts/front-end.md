@@ -17,7 +17,6 @@ date: 2023-07-19 14:37
 
 - [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
-
 ## JavaScript
 
 - [從ES6開始的JavaScript學習生活](https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/)
@@ -75,6 +74,8 @@ date: 2023-07-19 14:37
 
 - [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+- [W3C CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+
 ## VUE
 
 - [重新認識 Vue.js:](https://book.vue.tw/)
@@ -85,6 +86,7 @@ date: 2023-07-19 14:37
 
 
 # Back End
+
 ## nodejs
 
 - [Node入門](https://www.nodebeginner.org/index-zh-tw.html)
@@ -133,6 +135,42 @@ date: 2023-07-19 14:37
 
 # 綜合學習資源
 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+
+- [web.dev](https://web.dev/learn/)
+
+- [W3C CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+
+- [w3schools](https://www.w3schools.com)
+
 - [TutorialsTeacher.com](https://www.tutorialsteacher.com)
 
+- [runoob](https://www.runoob.com/)
+
 - [Fooish 程式技術](https://www.fooish.com)
+
+# VSCode Extensions
+
+## Vue
+
+- Vue 3 Snippets
+
+- Vue 2 Snippets
+
+- Vetur
+
+## Other
+
+- cdnjs
+
+- Live Server
+
+- open in browser
+
+#  iThome 鐵人賽
+
+- [前端工程師養成手冊](https://ithelp.ithome.com.tw/users/20040221/ironman/1247)
+
+- [For 前端小幼苗的圖解筆記](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
+
+
