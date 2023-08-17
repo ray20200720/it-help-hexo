@@ -105,10 +105,6 @@ date: 2023-07-19 14:37
 
 - [Node.js - 從零開始的 Koa2 世界](https://dotblogs.com.tw/explooosion/2017/06/05/221119)
 
-
-
-
-
 # Blogger
 
 - [azu](https://efcl.info/)
@@ -127,6 +123,7 @@ date: 2023-07-19 14:37
 
 - [Huli](https://github.com/aszx87410/blog)
 
+- [Henry A. Feild](https://hank.feild.org/index.html)
 
 # npm package
 
@@ -170,7 +167,7 @@ date: 2023-07-19 14:37
 #  iThome 鐵人賽
 
 - [前端工程師養成手冊](https://ithelp.ithome.com.tw/users/20040221/ironman/1247)
-
 - [For 前端小幼苗的圖解筆記](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
+- [平時沒注意的 JavaScript - JS 生態系及週邊工具整理](https://ithelp.ithome.com.tw/users/20107440/ironman/1355)
 
 
