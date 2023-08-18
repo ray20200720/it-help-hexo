@@ -107,6 +107,12 @@ date: 2023-07-19 14:37
 
 # Blogger
 
+## Chinese
+
+- [cwc329](https://blog.errorbaker.tw/posts/cwc329/)
+
+## English
+
 - [azu](https://efcl.info/)
 
 - [Matt Might](https://matt.might.net/)
@@ -125,10 +131,12 @@ date: 2023-07-19 14:37
 
 - [Henry A. Feild](https://hank.feild.org/index.html)
 
-# npm package
+# iT邦幫忙
 
-- [honkit](https://github.com/honkit/honkit)
-
+- [前端工程師養成手冊](https://ithelp.ithome.com.tw/users/20040221/ironman/1247)
+- [For 前端小幼苗的圖解筆記](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
+- [平時沒注意的 JavaScript - JS 生態系及週邊工具整理](https://ithelp.ithome.com.tw/users/20107440/ironman/1355)
+- [快速入門前端 系列文章索引列表](https://ithelp.ithome.com.tw/articles/10313112)
 
 # 綜合學習資源
 
@@ -146,28 +154,31 @@ date: 2023-07-19 14:37
 
 - [Fooish 程式技術](https://www.fooish.com)
 
+# npm package
+
+- [honkit](https://github.com/honkit/honkit)
+
 # VSCode Extensions
 
 ## Vue
 
 - Vue 3 Snippets
-
 - Vue 2 Snippets
-
 - Vetur
 
 ## Other
 
 - cdnjs
-
 - Live Server
-
 - open in browser
 
-#  iThome 鐵人賽
-
-- [前端工程師養成手冊](https://ithelp.ithome.com.tw/users/20040221/ironman/1247)
-- [For 前端小幼苗的圖解筆記](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
-- [平時沒注意的 JavaScript - JS 生態系及週邊工具整理](https://ithelp.ithome.com.tw/users/20107440/ironman/1355)
 
 
+
+
+# Chrome Extensions
+
+- [Wappalyzer - Technology profiler](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
+- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+- [Midnight Lizard](https://chrome.google.com/webstore/detail/midnight-lizard/pbnndmlekkboofhnbonilimejonapojg)
+- [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
