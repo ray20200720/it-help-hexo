@@ -17,6 +17,8 @@ date: 2023-07-19 14:37
 
 - [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
+- [Web](https://github.com/qianguyihao/Web)
+
 ## JavaScript
 
 - [從ES6開始的JavaScript學習生活](https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/)
@@ -79,6 +81,10 @@ date: 2023-07-19 14:37
 ## VUE
 
 - [重新認識 Vue.js:](https://book.vue.tw/)
+- [Vue 3官方文檔](https://cn.vuejs.org/)
+- [Vue 2官方文檔](https://v2.cn.vuejs.org/)
+- [Vue 1官方文檔](https://v1-cn.vuejs.org/)
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 ## Webpack
 

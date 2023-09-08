@@ -12,11 +12,14 @@ date: 2023-08-17 15:14
 
 - [ASP.NET 伺服器控制項開發](https://ithelp.ithome.com.tw/users/20007956/ironman/49)
 - [C# 和 SQL 探索之路](https://ithelp.ithome.com.tw/users/20152154/ironman/5565)
+- [玩轉C# 進階學習之旅](https://ithelp.ithome.com.tw/users/20121553/ironman/5282)
 
 # 點部落
 
 - [小朱® 的技術隨手寫](https://dotblogs.com.tw/regionbbs)
 - [Dev 2Share](https://dotblogs.com.tw/johnny)
+- [RiCo技術農場](https://dotblogs.com.tw/ricochen)
+- [Miles MS.HelloWorld](https://dotblogs.com.tw/mileslin)
 
 # 專題文章
 
@@ -65,3 +68,26 @@ date: 2023-08-17 15:14
 ### [这种人](https://www.cnblogs.com/zzr-stdio/) 
 - [C# Barrier简单介绍](https://www.cnblogs.com/zzr-stdio/p/13820953.html)
 - [C# CountdownEvent简单介绍](https://www.cnblogs.com/zzr-stdio/p/13820686.html)
+
+### [Miles MS.HelloWorld](https://dotblogs.com.tw/mileslin)
+- [Concurrent collections](https://dotblogs.com.tw/mileslin/2016/03/13/150234)
+
+### [丹枫无迹的博客](https://www.cnblogs.com/gl1573/)
+- [BlockingCollection 用法浅析](https://www.cnblogs.com/gl1573/p/14595985.html)
+
+## Task
+
+- [C#中的ConcurrentExclusiveSchedulerPair类](https://zhuanlan.zhihu.com/p/654373681)
+
+- [Task.Run 與 Task.Factory.StartNew](https://marcus116.blogspot.com/2019/02/net-taskrun-taskfactorystartnew.html)
+
+- [.NET(C#): Task.Unwrap扩展方法和async Lambda](https://www.cnblogs.com/Leo_wl/archive/2012/09/21/2696342.html)
+
+- [將事件驅動 (event-driven) 的模式改為可等候的方法 (awaitable method)TaskCompletionSource](https://dotblogs.com.tw/renewalwu/2014/07/27/eventdriven2awaitablemethod)
+
+- [C#并行编程](https://www.cnblogs.com/BigBrotherStone/p/12237433.html)
+
+- [ConcurrentExclusiveSchedulerPair 调度器](https://www.cnblogs.com/BigBrotherStone/p/12249615.html)
+
+- [深入理解C#中的异步(一)——APM模式EAP模式](https://www.cnblogs.com/JerryMouseLi/p/14100496.html)
+
