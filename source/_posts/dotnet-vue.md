@@ -3,14 +3,15 @@ title: .NET 遇見 Vue
 date: 2023-09-14 15:22
 ---
 
-今天嘗試在.NET Web App裡使用Vue,有成功顯示, 在這裡記錄一下最簡單的用法:
+今天嘗試在.NET Web App裡使用Vue,有成功顯示, 在這裡記錄一下簡單的用法:
 
-先執行
+### 創建專案
+
 ``` bash
 dotnet new webapp -o DotnetVueWebApp
 ```
 
-修改 `Index.cshtml`
+### 修改 `Index.cshtml`
 
 1. 引用 vue
 
@@ -58,5 +59,10 @@ dotnet new webapp -o DotnetVueWebApp
 4. 執行 `dotnet run`
 
 5. 開啟瀏覽器 瀏覽 `http://localhost:5500`
+
+### 補充
+
+如果要將 `https://unpkg.com/vue@3/dist/vue.global.js` 下載至本地端, js檔案存放至 `wwwroot\js\` 目錄下.
+js的引用改成 `<script src="~/js/vue.global.js"></script>`
 
 
