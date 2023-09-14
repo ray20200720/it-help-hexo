@@ -5,32 +5,32 @@ date: 2023-08-17 15:14
 
 這裡記錄了ASP.NET學習的資源
 
-# ASP.NET CORE
+### ASP.NET CORE
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hant.md)
 
-# iT邦幫忙
+### iT邦幫忙
 
 - [ASP.NET 伺服器控制項開發](https://ithelp.ithome.com.tw/users/20007956/ironman/49)
 - [C# 和 SQL 探索之路](https://ithelp.ithome.com.tw/users/20152154/ironman/5565)
 - [玩轉C# 進階學習之旅](https://ithelp.ithome.com.tw/users/20121553/ironman/5282)
 
-# 點部落
+### 點部落
 
 - [小朱® 的技術隨手寫](https://dotblogs.com.tw/regionbbs)
 - [Dev 2Share](https://dotblogs.com.tw/johnny)
 - [RiCo技術農場](https://dotblogs.com.tw/ricochen)
 - [Miles MS.HelloWorld](https://dotblogs.com.tw/mileslin)
 
-# 專題文章
+### 專題文章
 
-## 多執行緒和非同步
+#### 多執行緒和非同步
 
-### [入門.Net 非同步處理與同步機制全解析]
+##### [入門.Net 非同步處理與同步機制全解析]
 - [入門 .Net 非同步處理與同步機制全解析 (一)](https://dotblogs.com.tw/johnny/2010/12/18/20225)
 - [入門 .Net 非同步處理與同步機制全解析 (二)](https://dotblogs.com.tw/johnny/2014/04/02/144594)
 - [入門 .Net 非同步處理與同步機制全解析 (三)](https://dotblogs.com.tw/johnny/2014/11/04/147188)
 
-### [痴者工良](https://www.cnblogs.com/whuanle/)
+##### [痴者工良](https://www.cnblogs.com/whuanle/)
 - [博客园](https://www.cnblogs.com/whuanle/)
 - [面向云技术架构 - 痴者工良](https://www.whuanle.cn)
 - [51cto](https://blog.51cto.com/u_10006690/p_8)
@@ -62,32 +62,27 @@ date: 2023-08-17 15:14
 
 
 
-### [工作筆記](http://noteofisabella.blogspot.com/)
+##### [工作筆記](http://noteofisabella.blogspot.com/)
 - [C# 執行緒(Thread)的CountdownEvent探討](http://noteofisabella.blogspot.com/2019/03/c-threadcountdownevent.html)
 
-### [这种人](https://www.cnblogs.com/zzr-stdio/) 
+##### [这种人](https://www.cnblogs.com/zzr-stdio/) 
 - [C# Barrier简单介绍](https://www.cnblogs.com/zzr-stdio/p/13820953.html)
 - [C# CountdownEvent简单介绍](https://www.cnblogs.com/zzr-stdio/p/13820686.html)
 
-### [Miles MS.HelloWorld](https://dotblogs.com.tw/mileslin)
+##### [Miles MS.HelloWorld](https://dotblogs.com.tw/mileslin)
 - [Concurrent collections](https://dotblogs.com.tw/mileslin/2016/03/13/150234)
 
-### [丹枫无迹的博客](https://www.cnblogs.com/gl1573/)
+##### [丹枫无迹的博客](https://www.cnblogs.com/gl1573/)
 - [BlockingCollection 用法浅析](https://www.cnblogs.com/gl1573/p/14595985.html)
 
-## Task
+#### Task
 
+- [C# - Task的各种用法和详解](https://www.cnblogs.com/gygtech/p/14664830.html)
 - [C#中的ConcurrentExclusiveSchedulerPair类](https://zhuanlan.zhihu.com/p/654373681)
-
 - [Task.Run 與 Task.Factory.StartNew](https://marcus116.blogspot.com/2019/02/net-taskrun-taskfactorystartnew.html)
-
 - [.NET(C#): Task.Unwrap扩展方法和async Lambda](https://www.cnblogs.com/Leo_wl/archive/2012/09/21/2696342.html)
-
 - [將事件驅動 (event-driven) 的模式改為可等候的方法 (awaitable method)TaskCompletionSource](https://dotblogs.com.tw/renewalwu/2014/07/27/eventdriven2awaitablemethod)
-
 - [C#并行编程](https://www.cnblogs.com/BigBrotherStone/p/12237433.html)
-
 - [ConcurrentExclusiveSchedulerPair 调度器](https://www.cnblogs.com/BigBrotherStone/p/12249615.html)
-
 - [深入理解C#中的异步(一)——APM模式EAP模式](https://www.cnblogs.com/JerryMouseLi/p/14100496.html)
 
