@@ -85,6 +85,8 @@ date: 2023-07-19 14:37
 - [Vue 2官方文檔](https://v2.cn.vuejs.org/)
 - [Vue 1官方文檔](https://v1-cn.vuejs.org/)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [Vue3 One Piece](https://vue3js.cn/)
+- [2023年Vue开发中的8个最佳工具](https://www.cnblogs.com/powertoolsteam/p/17701754.html)
 
 ## Webpack
 
