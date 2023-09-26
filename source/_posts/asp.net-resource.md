@@ -1,6 +1,6 @@
----
 title: ASP.NET 學習資源匯總
 date: 2023-08-17 15:14
+categories: Resource
 ---
 
 這裡記錄了ASP.NET學習的資源
@@ -23,6 +23,12 @@ date: 2023-08-17 15:14
 
 ### 專題文章
 
+#### Ｃ# 语言高级特性
+- [Ｃ# 语言高级特性](http://www.skcircle.com/?id=140)
+- [Ｃ# 特性 Attribute](https://www.cnblogs.com/liqingwen/p/5911289.html)
+- [剖析 AssemblyInfo.cs - 了解常用的特性 Attribute](https://www.cnblogs.com/liqingwen/p/5944391.html)
+- [走进 LINQ 的世界](https://www.cnblogs.com/liqingwen/p/5832322.html)
+
 #### 多執行緒和非同步
 
 ##### [入門.Net 非同步處理與同步機制全解析]
@@ -35,10 +41,10 @@ date: 2023-08-17 15:14
 - [面向云技术架构 - 痴者工良](https://www.whuanle.cn)
 - [51cto](https://blog.51cto.com/u_10006690/p_8)
 
+
 #### C#多线程系列
 
-- [博客园](https://www.cnblogs.com/whuanle/category/1756558.html) 
-
+- [C#多线程系列-痴者工良](https://www.cnblogs.com/whuanle/category/1756558.html)
     - [C#多线程系列(1)：Thread](https://www.cnblogs.com/whuanle/p/12708824.html)
     - [C#多线程系列(2)：多线程锁lock和Monitor](https://www.cnblogs.com/whuanle/p/12722853.html)
     - [C#多线程系列(3)：原子操作](https://www.cnblogs.com/whuanle/p/12724371.html)
@@ -46,10 +52,8 @@ date: 2023-08-17 15:14
     - [C#多线程(5)：资源池限制](https://www.cnblogs.com/whuanle/p/12728416.html)
     - [C#多线程(6)：线程通知](https://www.cnblogs.com/whuanle/p/12730169.html)
     - [C#多线程(7)：手动线程通知](https://www.cnblogs.com/whuanle/p/12731803.html)
-    - []()
+    - [C#多线程(8)：线程完成数](https://www.cnblogs.com/whuanle/p/12733958.html)
     - [C#多线程(9)：多阶段并行线程](https://www.cnblogs.com/whuanle/p/12771578.html)
-    - []()
-    - []()
 
 - 文档导读
     - [文档导读 · C# 多线程与异步 - 痴者工良](https://threads.whuanle.cn/)
@@ -65,7 +69,7 @@ date: 2023-08-17 15:14
 ##### [工作筆記](http://noteofisabella.blogspot.com/)
 - [C# 執行緒(Thread)的CountdownEvent探討](http://noteofisabella.blogspot.com/2019/03/c-threadcountdownevent.html)
 
-##### [这种人](https://www.cnblogs.com/zzr-stdio/) 
+##### [这种人](https://www.cnblogs.com/zzr-stdio/)
 - [C# Barrier简单介绍](https://www.cnblogs.com/zzr-stdio/p/13820953.html)
 - [C# CountdownEvent简单介绍](https://www.cnblogs.com/zzr-stdio/p/13820686.html)
 
@@ -85,4 +89,3 @@ date: 2023-08-17 15:14
 - [C#并行编程](https://www.cnblogs.com/BigBrotherStone/p/12237433.html)
 - [ConcurrentExclusiveSchedulerPair 调度器](https://www.cnblogs.com/BigBrotherStone/p/12249615.html)
 - [深入理解C#中的异步(一)——APM模式EAP模式](https://www.cnblogs.com/JerryMouseLi/p/14100496.html)
-
