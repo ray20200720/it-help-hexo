@@ -1,7 +1,9 @@
----
-title: 線上學習資源匯總
+title: 線上資源匯總
 date: 2023-08-11 09:33
+categories: Resource
 ---
+
+這裡收集了一些網路上不錯的資源,供參考.
 
 # E-book
 
