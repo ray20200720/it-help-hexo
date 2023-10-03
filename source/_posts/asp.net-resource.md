@@ -5,6 +5,10 @@ categories: Resource
 
 這裡記錄了ASP.NET學習的資源
 
+### [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
+
+- [C# Attributes](https://www.tutorialspoint.com/csharp/csharp_attributes.htm)
+
 ### ASP.NET CORE
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hant.md)
 
@@ -20,6 +24,11 @@ categories: Resource
 - [Dev 2Share](https://dotblogs.com.tw/johnny)
 - [RiCo技術農場](https://dotblogs.com.tw/ricochen)
 - [Miles MS.HelloWorld](https://dotblogs.com.tw/mileslin)
+
+### [手册网](https://www.shouce.ren/)
+
+- [C#](https://www.shouce.ren/api/view/a/7387)
+- [C# 特性（Attribute）](https://www.shouce.ren/api/view/a/7434)
 
 ### 專題文章
 
@@ -64,7 +73,11 @@ categories: Resource
     - [C#多线程系列(2)：多线程锁lock和Monitor](https://blog.51cto.com/u_10006690/2726890)
     - [C#多线程系列(3)：原子操作](https://blog.51cto.com/u_10006690/2726888)
 
-
+- cjavapy
+	- [.NET(C#) lock 和 ReaderWriterLock 的使用总结](https://www.cjavapy.com/article/2507/)
+  
+- c-sharpcorner
+  - [ReaderWriterLock Class in C# Threading](https://www.c-sharpcorner.com/UploadFile/1d42da/readerwriterlock-class-in-C-Sharp-threading/)
 
 ##### [工作筆記](http://noteofisabella.blogspot.com/)
 - [C# 執行緒(Thread)的CountdownEvent探討](http://noteofisabella.blogspot.com/2019/03/c-threadcountdownevent.html)
@@ -89,3 +102,7 @@ categories: Resource
 - [C#并行编程](https://www.cnblogs.com/BigBrotherStone/p/12237433.html)
 - [ConcurrentExclusiveSchedulerPair 调度器](https://www.cnblogs.com/BigBrotherStone/p/12249615.html)
 - [深入理解C#中的异步(一)——APM模式EAP模式](https://www.cnblogs.com/JerryMouseLi/p/14100496.html)
+
+#### Rules Engine
+
+- [C# RulesEngine 规则引擎：从入门到看懵](https://www.cnblogs.com/whuanle/p/16830333.html)
