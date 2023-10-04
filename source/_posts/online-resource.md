@@ -3,7 +3,20 @@ date: 2023-08-11 09:33
 categories: Resource
 ---
 
-這裡收集了一些網路上不錯的資源,供參考.
+收集一些網路上的資源,供參考.
+
+# Resource
+
+## English
+
+- [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+## 中文
+
+- [菜鸟教程](https://www.runoob.com/)
+- [C语言中文网](http://c.biancheng.net/)
+- [極客書](https://tw.gitbook.net/index.html)
 
 # E-book
 
