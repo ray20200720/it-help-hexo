@@ -5,12 +5,20 @@ categories: Resource
 
 這裡記錄了ASP.NET學習的資源
 
-### [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
+### C# 
 
-- [C# Attributes](https://www.tutorialspoint.com/csharp/csharp_attributes.htm)
+- [TutorialsTeacher - Learn C#](https://www.tutorialsteacher.com/csharp)
+- [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
+- [dotnettutorials.net - C#](https://dotnettutorials.net/)
 
 ### ASP.NET CORE
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hant.md)
+
+### MVP 聚技站
+
+- [MVP 聚技站｜.NET C# 系列（一）：使用C# 編寫第一行程式碼](https://www.youtube.com/watch?v=HMxnArq9Heg)
+- [MVP 聚技站｜.NET C# 系列（二）：創建並運行簡單的C# 控制 ...](https://www.youtube.com/watch?v=fF9p4TPRJDk)
+- [MVP 聚技站｜.NET C# 系列（三）：向C# 控制台應用程序添加](https://www.youtube.com/watch?v=LnDRl3dFG3k)
 
 ### iT邦幫忙
 
@@ -32,7 +40,20 @@ categories: Resource
 
 ### 專題文章
 
-#### Ｃ# 语言高级特性
+#### C# Attribute
+
+- [TutorialsPoint - C# Attributes](https://www.tutorialspoint.com/csharp/csharp_attributes.htm)
+
+#### C# 泛型
+
+- [C# Generics](https://www.tutorialsteacher.com/csharp/csharp-generics)
+- [C# Generic Constraints](https://www.tutorialsteacher.com/csharp/constraints-in-generic-csharp)
+- [C#中泛型的用法](https://juejin.cn/post/7060484040310128654)
+- [C#中泛型约束的具体用法](https://juejin.cn/post/7060861015981817869?from=search-suggest)
+- [where (泛型類型條件約束) (C# 參考)](https://learn.microsoft.com/zh-tw/dotnet/csharp/language-reference/keywords/where-generic-type-constraint)
+- [Generic classes and methods](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
+
+#### C# 语言高级特性
 - [Ｃ# 语言高级特性](http://www.skcircle.com/?id=140)
 - [Ｃ# 特性 Attribute](https://www.cnblogs.com/liqingwen/p/5911289.html)
 - [剖析 AssemblyInfo.cs - 了解常用的特性 Attribute](https://www.cnblogs.com/liqingwen/p/5944391.html)
@@ -103,6 +124,14 @@ categories: Resource
 - [ConcurrentExclusiveSchedulerPair 调度器](https://www.cnblogs.com/BigBrotherStone/p/12249615.html)
 - [深入理解C#中的异步(一)——APM模式EAP模式](https://www.cnblogs.com/JerryMouseLi/p/14100496.html)
 
+#### C# SQLite
+
+- [C# SQLite](https://zetcode.com/csharp/sqlite/)
+
 #### Rules Engine
 
 - [C# RulesEngine 规则引擎：从入门到看懵](https://www.cnblogs.com/whuanle/p/16830333.html)
+
+### Library
+
+- [lambda-sql-builder](https://github.com/DomanyDusan/lambda-sql-builder)

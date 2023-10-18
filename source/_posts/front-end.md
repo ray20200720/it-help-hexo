@@ -78,9 +78,14 @@ date: 2023-07-19 14:37
 
 - [W3C CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
+## Alpinejs
+
+- [Alpinejs](https://alpinejs.dev/)
+
 ## VUE
 
-- [重新認識 Vue.js:](https://book.vue.tw/)
+- [petite-vue](https://github.com/vuejs/petite-vue)
+- [重新認識 Vue.js](https://book.vue.tw/)
 - [Vue 3官方文檔](https://cn.vuejs.org/)
 - [Vue 2官方文檔](https://v2.cn.vuejs.org/)
 - [Vue 1官方文檔](https://v1-cn.vuejs.org/)
