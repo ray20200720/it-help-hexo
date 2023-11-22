@@ -132,9 +132,9 @@ categories: Resource
 
 - [C# RulesEngine 规则引擎：从入门到看懵](https://www.cnblogs.com/whuanle/p/16830333.html)
 
-#### Terry Lee ASP.NET AJAX入門系列
+#### ASP.NET AJAX入門系列
 
-- [ASP.NET AJAX入门系列](https://www.cnblogs.com/Terrylee/archive/2006/11/12/ASPNET_AJAX_QuickStarts.html)
+- [Terry Lee ASP.NET AJAX入门系列](https://www.cnblogs.com/Terrylee/archive/2006/11/12/ASPNET_AJAX_QuickStarts.html)
 
 ### Library
 
