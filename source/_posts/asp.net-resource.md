@@ -10,6 +10,8 @@ categories: Resource
 - [TutorialsTeacher - Learn C#](https://www.tutorialsteacher.com/csharp)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [dotnettutorials.net - C#](https://dotnettutorials.net/)
+    - [C#.NET Tutorials For Beginners and Professionals](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
+    - [LINQ Tutorial For Beginners and Professionals](https://dotnettutorials.net/course/linq/)
 
 ### ASP.NET CORE
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hant.md)
@@ -139,3 +141,7 @@ categories: Resource
 ### Library
 
 - [lambda-sql-builder](https://github.com/DomanyDusan/lambda-sql-builder)
+
+### Blogger
+
+- [蒋金楠，网名Artech](https://www.cnblogs.com/artech/)
