@@ -12,6 +12,9 @@ categories: Resource
 - [dotnettutorials.net - C#](https://dotnettutorials.net/)
     - [C#.NET Tutorials For Beginners and Professionals](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
     - [LINQ Tutorial For Beginners and Professionals](https://dotnettutorials.net/course/linq/)
+- [C# Tutorial](https://www.w3schools.com/cs/index.php)
+- [菜鸟教程 - C# 教程](https://www.runoob.com/csharp/csharp-tutorial.html)
+- [Mono Project](https://www.mono-project.com/)
 
 ### ASP.NET CORE
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/ReadMe.zh-Hant.md)
