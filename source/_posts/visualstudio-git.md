@@ -3,8 +3,7 @@ date: 2023-12-29 16:18
 categories: Visual Studio, Git
 ---------------------------------------
 
-從 Microsoft 官網看到 Visual Studio 2019 支援 Git, 但 我的 Visual Studio打開沒看到
-任何 git 的選單.
+從 Microsoft 官網看到 Visual Studio 2019 支援 Git, 但 我的 Visual Studio打開沒看到任何 git 的選單.
 
 # 解決方法
 
